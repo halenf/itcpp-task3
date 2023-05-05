@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello User!\nWelcome to the government database for people who don't brush their teeth before bed." << std::endl;
+    std::cout << "Please ensure information disclosed to you through this service is kept confidential, or there may be consequences..." << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
